@@ -10,5 +10,6 @@
     ./trim.nix
     ./bluetooth.nix
     ./services.nix
+    ./steam.nix
   ];
 }

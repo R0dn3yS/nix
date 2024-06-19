@@ -55,6 +55,7 @@
     xwayland
     wl-clipboard
     cliphist
+    swaylock
 
     # WMs
     hyprland

@@ -118,6 +118,7 @@
         "$mainMod, Space, exec, wofi --show drun"
         "$mainMod, P, pseudo,"
         "$mainMod, J, togglesplit,"
+        "$mainMod, L, exec, swaylock -e -F -i ~/.config/lockscreen -s fill"
 
         # Move focus with mainMod + arrow keys
         "$mainMod, left,  movefocus, l"

@@ -44,6 +44,7 @@
     micro
     swww
     viu
+    ani-cli
 
     # GUI utils
     fastfetch

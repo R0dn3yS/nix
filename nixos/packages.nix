@@ -14,6 +14,7 @@
     polymc
     wezterm
     alacritty
+    steam
     
     # Coding stuff
     gnumake

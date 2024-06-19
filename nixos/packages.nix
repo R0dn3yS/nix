@@ -42,6 +42,7 @@
     lf
     micro
     swww
+    viu
 
     # GUI utils
     fastfetch

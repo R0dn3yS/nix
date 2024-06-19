@@ -15,6 +15,7 @@
     wezterm
     alacritty
     steam
+    nheko
     
     # Coding stuff
     gnumake

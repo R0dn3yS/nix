@@ -11,5 +11,6 @@
     ./bluetooth.nix
     ./services.nix
     ./steam.nix
+    ./kernel.nix
   ];
 }

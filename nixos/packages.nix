@@ -77,6 +77,7 @@
 
     # Other
     home-manager
+    jdk
   ];
 
   fonts.packages = with pkgs; [

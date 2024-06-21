@@ -92,6 +92,7 @@
     font-awesome
     powerline-fonts
     powerline-symbols
+    liberation_ttf
     (nerdfonts.override { fonts = [ "NerdFontsSymbolsOnly" ]; })
   ];
 }

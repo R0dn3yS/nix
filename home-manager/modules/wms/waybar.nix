@@ -8,7 +8,7 @@
         margin = "6 8 2 8";
 
         modules-left = ["hyprland/workspaces" "hyprland/language" "keyboard-state" "hyprland/submap"];
-        modules-center = ["clock"];
+        modules-center = ["clock" "custom/weather"];
         modules-right = ["pulseaudio" "custom/mem" "cpu" "backlight" "battery" "tray"];
 
         "hyprland/workspaces" = {
@@ -222,7 +222,7 @@ window#waybar.hidden {
 #clock {
   padding-left: 16px;
   padding-right: 16px;
-  border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 0px 0px 10px;
   transition: none;
   color: #ffffff;
   background: #383c4a;

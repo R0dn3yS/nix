@@ -24,6 +24,9 @@
     vscode
     python
     (python3.withPackages (ps: with ps; [ requests ]))
+    deno
+    rustc
+    cargo 
 
     # CLI utils
     fastfetch
@@ -70,9 +73,6 @@
     helvum
     pamixer
 
-    # GPU stuff
-    amdvlk
-
     # Screenshotting
     grim
     grimblast
@@ -93,6 +93,8 @@
     powerline-fonts
     powerline-symbols
     liberation_ttf
+    meslo-lgs-nf
+    cascadia-code
     (nerdfonts.override { fonts = [ "NerdFontsSymbolsOnly" ]; })
   ];
 }

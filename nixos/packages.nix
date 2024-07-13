@@ -49,6 +49,7 @@
     swww
     viu
     ani-cli
+    appimage-run
 
     # GUI utils
     fastfetch

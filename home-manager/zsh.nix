@@ -19,6 +19,8 @@
 
       se = "sudoedit";
       ff = "fastfetch";
+
+      gd = "cd ~/.gd; appimage-run ./gd.AppImage";
     };
 
     history.size = 10000;

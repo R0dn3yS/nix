@@ -117,6 +117,7 @@
         "$mainMod, P, pseudo,"
         "$mainMod, J, togglesplit,"
         "$mainMod, L, exec, swaylock -e -F -i ~/.config/lockscreen -s fill"
+        "$mainMod, D, exec, appimage-run ~/.gd/gd.AppImage"
 
         # Move focus with mainMod + arrow keys
         "$mainMod, left,  movefocus, l"

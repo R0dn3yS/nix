@@ -16,6 +16,8 @@
     alacritty
     steam
     nheko
+    mpv
+    vlc
     
     # Coding stuff
     gnumake

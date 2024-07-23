@@ -52,6 +52,8 @@
     viu
     ani-cli
     appimage-run
+    gdu
+    duf
 
     # GUI utils
     fastfetch

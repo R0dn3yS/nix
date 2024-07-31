@@ -18,6 +18,7 @@
     nheko
     mpv
     vlc
+    spotify
     
     # Coding stuff
     gnumake
